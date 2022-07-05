@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@300&family=Playfair+Display:ital@0;1&family=Rubik+Moonrocks&family=The+Nautigal&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+#container{
+ background:olive;
+}
+#vegetableSaladImage{
+    height: 120vh;
+    width: 50vw;
+    display: block;
+    border: 5px solid white;
+  
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+   
+}
+#titleName{
+    font-family: 'Arima', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'The Nautigal', cursive;
+    font-size: 3em;
+    font-weight: 600;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+#benefits{
+    font-size: 3em;
+    font-family: 600;
+  
+    text-align: center;
+    font-family: 'Arima', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'The Nautigal', cursive;
+}
+#benefitsParagraph{
+    text-align: center;
+    font-size: 2em;
+    font-weight: 500;
+    font-family: 'Arima', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'The Nautigal', cursive;
+}
+#steps{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 600;
+    font-family: 'Arima', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'The Nautigal', cursive;
+}
+#stepForVegetableSalad{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style-position: inside;
+    font-size: 2em;
+    font-weight: 500;
+    font-family: 'Arima', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'The Nautigal', cursive;
+}
+#footerText{
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 500;
+font-family: 'Arima', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'The Nautigal', cursive;
+}
